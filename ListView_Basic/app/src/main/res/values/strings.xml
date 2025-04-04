@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ListView_Basic</string>
+    <string-array name="nation_array">
+        <item>Việt Nam</item>
+        <item>Thái Lan</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>Campuchia</item>
+        <item>Myanmar</item>
+        <item>Lào</item>
+        <item>Singarpo</item>
+        <item>Dongtimo</item>
+        <item>Brunei</item>
+        <item>Philippin</item>  <item>Việt Nam</item>
+        <item>Thái Lan</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>Campuchia</item>
+        <item>Myanmar</item>
+        <item>Lào</item>
+        <item>Singarpo</item>
+        <item>Dongtimo</item>
+        <item>Brunei</item>
+        <item>Philippin</item>  <item>Việt Nam</item>
+        <item>Thái Lan</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>Campuchia</item>
+        <item>Myanmar</item>
+        <item>Lào</item>
+        <item>Singarpo</item>
+        <item>Dongtimo</item>
+        <item>Brunei</item>
+        <item>Philippin</item>
+    </string-array>
+</resources>
